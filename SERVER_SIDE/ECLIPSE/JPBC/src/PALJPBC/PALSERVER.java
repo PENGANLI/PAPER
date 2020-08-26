@@ -51,7 +51,7 @@ public class PALSERVER {
 	static Element x, X,nc, SKCI1, SKCI2, SKCI3, SKCI4;
     static String IDc, X_str, XORCI_str, nc_str, IDC_PublicKey_PC_str;
 	byte[] IDc_bytes, X_bytes, IDC_PublicKey_PC_bytes, XORCIBytes, nc_bytes;
-	
+	//test
 	
 /*---------------------initial setup end--------------*/  	
 	/* ServerSocket */
